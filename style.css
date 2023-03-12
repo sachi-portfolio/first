@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/*
+Theme Name : profile
+*/
+body{
+    font-family: cursive;
+    padding:10px;
+}
+.portfolio{
+    background-image: url("../img/magnolia.jpg");
+    background-position:120% center ;
+    background-blend-mode: lighten;
+    background-color: rgba(255,255,255,0.5);
+    height:200px;
+    text-align: center;
+   padding-top:50px;
+   margin:0 auto;
+}
+.headnav{
+    display:flex;
+}
+li{
+    list-style: none;
+}   
+li:hover{
+    opacity: 0.5;
+}
+section{
+    text-align: center;  
+    margin:50px 0;
+}
+#contact a:hover{
+    opacity: 0.5;
+}
+section h2{
+    margin-bottom:30px;
+}
+.about-content{
+   
+    margin:0 auto;
+}
+#about{
+    text-align: center;
+    background-color: rgb(251, 235, 243);
+    width:600px;
+    height:200px;
+    border-radius: 50%;
+    margin:0 auto;
+}
+.about-content h2{
+margin-bottom:0;
+}
+#service{
+    text-align: center;
+    background-color: rgb(251, 235, 243);
+    width:600px;
+    height:200px;
+    border-radius: 50%;
+    margin:0 auto;
+}
