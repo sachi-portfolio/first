@@ -64,9 +64,11 @@ a:hover{
 #works li img{
     width:150px;
     height:150px;
+     border-radius:10px;
 }
 .mailhover:hover{
     background-image:url(mailad.jpg);
     background-color:red;
+    
 }
 
