@@ -7,7 +7,7 @@ body{
     padding:10px;
 }
 .portfolio{
-    background-image: url("../img/magnolia.jpg");
+    background-image: url("magnolia.jpg");
     background-position:120% center ;
     background-blend-mode: lighten;
     background-color: rgba(255,255,255,0.5);
