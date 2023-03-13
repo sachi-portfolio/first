@@ -67,13 +67,5 @@ a:hover{
      border-radius:10px;
     object-fit:cover;
 }
-.mailhover:hover{
-    background-image:url(mailad.jpg);
-    background-color:red;
-    position:abosolute;
-    left:300px;
-    
-}
-.mailhover{
-    position:relative;
+
 
