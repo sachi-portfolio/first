@@ -67,5 +67,6 @@ a:hover{
 }
 .mailhover:hover{
     background-image:url(mailad.jpg);
+    background-color:red;
 }
 
